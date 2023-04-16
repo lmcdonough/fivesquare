@@ -2,7 +2,7 @@ wsgiref==0.1.2
 #git+git://github.com/django-nonrel/django-nonrel.git@master
 git+git://github.com/django-nonrel/django-permission-backend-nonrel.git@master
 #git+https://github.com/adamrpah/mongodb-engine.git
-django-filter==0.11.0
+django-filter==2.4.0
 #django-mongodb-engine==0.6.0
 django-taggit==0.17.0
 django-taggit-serializer==0.1.1
